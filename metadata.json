@@ -1,0 +1,8 @@
+{
+  "name": "Remix Royal Taas",
+  "description": "Royal Taas — Premium multiplayer card and board gaming platform featuring Call Break, Marriage 21, Teen Patti, Kitti, Ludo, Chess, private \u0026 public rooms, and ledger wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
